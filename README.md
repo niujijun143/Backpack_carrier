@@ -1,49 +1,58 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Jijun Niu, Computer Engineering Student
+njijun24@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Tyler Wells
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+This project is about building a smart backpack carrier that follows on the right side where the user goes and is able to dodge the obstacles. 
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Robot Designing, communciation, controls, Embedded Systems
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+1. control motoers with motor drivers  by 2/10/2025
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+No more sore shoulders! Say goodbye to the strain of heavy backpacks—let our smart carrier do the work while you move freely and effortlessly!
 
 ## Design Misc
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+- The robot will be able to go up/down stairs
+- Remote control from mobile app.
+- Distancing warning message for bracelet.
+- Solar panel to power
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+- github weekly update
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+- moters *4
+- moter driver
+- raspberry pi 5
+- raspberry pi camera
+- battery
+- servo motor
+- Ultrasonic Sensor
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+2024 fall: Brainstorm desgin ideas, conduct background reserach, establish success criteria, build, and test prototypes.
+
+2025 spring: motor connection. 
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+inspiration: https://www.youtube.com/watch?v=EvK2ZQbMn8o
 
-## Log
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
