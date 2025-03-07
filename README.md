@@ -1,7 +1,6 @@
 ## Members
 Jijun Niu, Computer Engineering Student
-njijun24@vt.edu
-
+component
 ## Mentor
 Tyler Wells
 
@@ -14,11 +13,14 @@ This project is about building a smart backpack carrier that follows on the righ
 
 ## Educational Value Added
 
-Robot Designing, communciation, controls, Embedded Systems
+Robot Designing, communciation, controls, Embedded Systems, CAD design
 
 ## Tasks
 
 1. control motoers with motor drivers  by 2/10/2025
+2. design the compoment of the frame   by 2/25/2025
+3. build the frame of the car          by 3/5/2025
+4. solder the perfboard                by 3/15/2025
 
 ## Design Decisions
 
@@ -54,5 +56,7 @@ No more sore shoulders! Say goodbye to the strain of heavy backpacks—let our s
 ## Useful Links
 
 inspiration: https://www.youtube.com/watch?v=EvK2ZQbMn8o
+
+
 
 
