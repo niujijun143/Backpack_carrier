@@ -1,61 +1,104 @@
-## Members
-Jijun Niu, Computer Engineering Student
-component
+# GestroCar
 ## Mentor
-Tyler Wells
+
+Tyler Wells (Class of 2025)
+
+## Members
+
+Jijun Niu – Computer Engineering Student
 
 ## Current Status
-IN PROGRESS
+
+IN PROGRESS (5%)
 
 ## Project Overview
 
-This project is about building a smart backpack carrier that follows on the right side where the user goes and is able to dodge the obstacles. 
+This project focuses on building a car that can be remotely controlled using hand gestures.
 
-## Educational Value Added
+## ducational Value Added
 
-Robot Designing, communciation, controls, Embedded Systems, CAD design
+- Robot Design
+
+- Communication & Controls
+
+- Embedded Systems
+
+- CAD Design
+
+- PCB Design
 
 ## Tasks
 
-1. control motoers with motor drivers  by 2/10/2025
-2. design the compoment of the frame   by 2/25/2025
-3. build the frame of the car          by 3/5/2025
-4. solder the perfboard                by 3/15/2025
+- Research components – Due 09/07/2025
+
+- (More tasks to be added)
 
 ## Design Decisions
 
-No more sore shoulders! Say goodbye to the strain of heavy backpacks—let our smart carrier do the work while you move freely and effortlessly!
+This prototype serves as an entry point into robotics. Two potential directions for future development are:
+
+1. Using drone propellers instead of motors.
+
+2. Applying computer vision on the motor system to automatically avoid obstacles.
 
 ## Design Misc
+### Current Rubric
 
-- The robot will be able to go up/down stairs
-- Remote control from mobile app.
-- Distancing warning message for bracelet.
-- Solar panel to power
+- Removable and rechargeable batteries providing at least 10 minutes of operation
 
-## Steps for Documenting Your Design Process
+- Ability to detect slight hand gestures and respond accordingly
 
-- github weekly update
+### Future Developments
 
-## BOM + Component Cost
+- Ability to climb stairs
 
-- moters *4
-- moter driver
-- raspberry pi 5
-- raspberry pi camera
-- battery
-- servo motor
-- Ultrasonic Sensor
+- Mobile app remote control
+
+- Distance warning bracelet
+
+- Solar panel power integration
+
+## Steps for Documenting the Design Process
+
+Block diagram
+
+Components list
+
+CAD design of car frame
+
+Wiring diagram
+
+Breadboard testing
+
+PCB design
+
+Weekly GitHub updates
+
+## Bill of Materials (BOM) + Component Cost
+
+4 × Motors
+
+Motor Driver
+
+Raspberry Pi 5
+
+Raspberry Pi Camera
+
+Battery
+
+Servo Motor
+
+Ultrasonic Sensor
 
 ## Timeline
 
-2024 fall: Brainstorm desgin ideas, conduct background reserach, establish success criteria, build, and test prototypes.
-
-2025 spring: motor connection. 
+Fall 2024: Brainstorm design ideas, conduct background research, establish success criteria, build, and test prototypes.
+Spring 2025: Motor connection and further integration.
 
 ## Useful Links
 
 inspiration: https://www.youtube.com/watch?v=EvK2ZQbMn8o
+
 
 
 
